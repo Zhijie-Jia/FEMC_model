@@ -1,0 +1,45 @@
+[PROJECT]
+
+[RP:UNTITLED_1]
+1=
+
+[GDXDISP: additional Par 1]
+PlaneDim=0
+RowDim=1
+Squeeze=1
+Order=1
+Decim=7
+PlaneRownr=-1
+
+[RP:CODE]
+1=
+
+[GDXDISP: dGDP1 Par 1]
+PlaneDim=0
+RowDim=1
+Squeeze=1
+Order=1
+Decim=7
+PlaneRownr=-1
+
+[GDXDISP: dF1 Par 3]
+PlaneDim=0
+RowDim=3
+Squeeze=1
+Order=1,2,3
+Decim=7
+PlaneRownr=-1
+
+[OPENWINDOW_1]
+FILE0=C:\Users\sheng\Desktop\新建文件夹\Code.gms
+FILE1=C:\Users\sheng\Desktop\新建文件夹\Code.lst
+FILE2=C:\Users\sheng\Desktop\新建文件夹\Data.gdx
+FILE3=C:\Users\sheng\Desktop\新建文件夹\output.gdx
+FILE4=C:\Users\sheng\Desktop\新建文件夹\Untitled_1.gms
+FILE5=C:\Users\sheng\Desktop\新建文件夹\Untitled_1.lst
+FILE6=C:\Users\sheng\Desktop\新建文件夹\Code.gms
+MAXIM=0
+TOP=0
+LEFT=4
+HEIGHT=1004
+WIDTH=1170
