@@ -4,5 +4,3 @@ The source of the paper (in Chinese) is:
 《收入差距、边际消费倾向与财政政策效果——基于中国财政政策评估模型的分析》, which English title: Income Inequality, Marginal Propensity to Consume, and the Effectiveness of Fiscal Policy: An Analysis Based on The Fiscal Evaluation Model for China (FEMC). 
 Published in: 
 《数量经济技术经济研究》(The Journal of Quantitative & Technical Economics). 
-URL: 
-TBD.
